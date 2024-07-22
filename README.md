@@ -1,4 +1,4 @@
-# VSCode Great Icons
+https://github.com/Bonniemarie216/vscode-great-icons/tree/main# VSCode Great Icons
 
 A big pack of icons (200+) for your files.
 
